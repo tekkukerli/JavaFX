@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exe4j version="7.0" transformSequenceNumber="3">
+  <directoryPresets config="C:/Users/kerli/IdeaProjects/JavaFX/out/artifacts/JavaFXApp" />
+  <application name="JavaFXAdressApp" distributionSourceDir="C:/Users/kerli/IdeaProjects/JavaFX" />
+  <executable name="AddressApp" wrapperType="embed" iconSet="true" iconFile="C:/Users/kerli/IdeaProjects/JavaFX/resources/images/AddressApp.ico" executableMode="gui" />
+  <java mainClass="ch.makery.address.MainApp" minVersion="1.8">
+    <classPath>
+      <archive location="C:/Users/kerli/IdeaProjects/JavaFX/out/artifacts/JavaFXApp/JavaFXApp.jar" failOnError="false" />
+    </classPath>
+  </java>
+</exe4j>
